@@ -1,8 +1,0 @@
-<C011_Grid_9_alpha_skinned.mfm>
-	<materialKind>	0	</materialKind>
-	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
-	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/radar/C011_Grid_9_alpha_a.tga	</Texture>
-	</property>
-</C011_Grid_9_alpha_skinned.mfm>

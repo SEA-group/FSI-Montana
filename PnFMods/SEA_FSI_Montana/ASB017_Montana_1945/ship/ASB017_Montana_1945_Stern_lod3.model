@@ -1,8 +1,1 @@
-<ASB017_Montana_1945_Stern_lod3.model>
-	<exporter>	1.6	</exporter>
-	<extent>	400.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945_Stern_lod3	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ASB017_Montana_1945_Stern_lod3.model>
+<ASB017_Montana_1945_Stern_lod3.model><exporter>1.6</exporter><extent>400.0000</extent><materialNames /><castsShadow>false</castsShadow><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945_Stern_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASB017_Montana_1945_Stern_lod3.model>

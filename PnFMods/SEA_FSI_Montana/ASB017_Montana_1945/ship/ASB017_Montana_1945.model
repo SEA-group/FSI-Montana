@@ -1,9 +1,1 @@
-<ASB017_Montana_1945.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945_Full_lod4	</parent>
-	<extent>	400.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ASB017_Montana_1945.model>
+<ASB017_Montana_1945.model><exporter>1.6</exporter><parent>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945_Full_lod4</parent><extent>400.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_1945</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></ASB017_Montana_1945.model>

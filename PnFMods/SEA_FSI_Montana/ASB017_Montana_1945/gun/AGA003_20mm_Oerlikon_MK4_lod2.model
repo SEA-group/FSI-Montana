@@ -1,13 +1,1 @@
-<AGA003_20mm_Oerlikon_MK4_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.037607 0.000000 -0.060452	</min>
-		<max>	0.037637 0.098572 0.102813	</max>
-	</visibilityBox>
-	<extent>	15.000000	</extent>
-	<parent>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGA003_20mm_Oerlikon_MK4_lod3	</parent>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGA003_20mm_Oerlikon_MK4_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AGA003_20mm_Oerlikon_MK4_lod2.model>
+<AGA003_20mm_Oerlikon_MK4_lod2.model><castsShadow>false</castsShadow><materialNames /><visibilityBox><min>-0.037607 0.000000 -0.060452</min><max>0.037637 0.098572 0.102813</max></visibilityBox><extent>15.000000</extent><parent>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGA003_20mm_Oerlikon_MK4_lod3</parent><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGA003_20mm_Oerlikon_MK4_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AGA003_20mm_Oerlikon_MK4_lod2.model>
