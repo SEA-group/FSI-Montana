@@ -1,0 +1,528 @@
+<AGM034_16in50_Mk7_lod1.visual>
+	<boundingBox>
+		<min>	-0.470425 -0.000134 -0.631191	</min>
+		<max>	0.470211 0.228624 1.259786	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.046425 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_X	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.053137 0.243915 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Roll_Back1	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.209249 0.000429 1.015872 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire1	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back1_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	-0.209249 -0.099991 -1.259786 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Roll_Back2	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	-0.000820 0.000429 1.015872 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire2	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back2_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	0.000820 -0.099991 -1.259786 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Roll_Back3	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	-0.209868 0.000429 1.015872 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire3	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back3_BlendBone	</identifier>
+							<transform>
+								<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	0.209868 -0.099991 -1.259786 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	HP_gunFireEffect	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	-0.000820 0.000429 1.015872 1.000000	</row3>
+						</transform>
+					</node>
+					<node>
+						<identifier>	Rotate_X_BlendBone	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	0.000000 -0.099562 -0.243915 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	MP_AM069_Crane_1	</identifier>
+					<transform>
+						<row0>	0.081997 0.000000 -0.670001 0.000000	</row0>
+						<row1>	0.000000 0.675000 0.000000 0.000000	</row1>
+						<row2>	0.670001 0.000000 0.081997 0.000000	</row2>
+						<row3>	-0.318345 0.067402 -0.189123 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM055_Boat_1	</identifier>
+					<transform>
+						<row0>	-0.146877 0.000000 0.989155 0.000000	</row0>
+						<row1>	-0.970504 0.193275 -0.144108 0.000000	</row1>
+						<row2>	-0.191179 -0.981145 -0.028388 0.000000	</row2>
+						<row3>	-0.375652 0.062760 -0.303907 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM074_Floater_Net_Basket_2	</identifier>
+					<transform>
+						<row0>	-1.382980 0.000000 0.183704 0.000000	</row0>
+						<row1>	0.000000 1.395128 0.000000 0.000000	</row1>
+						<row2>	-0.183704 0.000000 -1.382980 0.000000	</row2>
+						<row3>	-0.203008 0.120274 -0.607966 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM055_Boat_1_INDEX_1	</identifier>
+					<transform>
+						<row0>	-0.146877 0.000000 -0.989155 0.000000	</row0>
+						<row1>	0.970504 0.193275 -0.144108 0.000000	</row1>
+						<row2>	0.191179 -0.981145 -0.028388 0.000000	</row2>
+						<row3>	0.375421 0.062780 -0.303913 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM074_Floater_Net_Basket_2_INDEX_1	</identifier>
+					<transform>
+						<row0>	-1.382855 0.000000 -0.183677 0.000000	</row0>
+						<row1>	0.000000 1.395000 0.000000 0.000000	</row1>
+						<row2>	0.183677 0.000000 -1.382855 0.000000	</row2>
+						<row3>	0.203035 0.120255 -0.607985 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM055_Boat_1_INDEX_2	</identifier>
+					<transform>
+						<row0>	-0.146877 0.000000 0.989155 0.000000	</row0>
+						<row1>	-0.970504 0.193275 -0.144108 0.000000	</row1>
+						<row2>	-0.191179 -0.981145 -0.028388 0.000000	</row2>
+						<row3>	-0.392327 0.066151 -0.189948 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM069_Crane_1_INDEX_1	</identifier>
+					<transform>
+						<row0>	-0.373051 0.000000 -0.563091 0.000000	</row0>
+						<row1>	0.000000 0.675454 0.000000 0.000000	</row1>
+						<row2>	0.563091 0.000000 -0.373051 0.000000	</row2>
+						<row3>	-0.295175 0.067586 0.184470 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM055_Boat_1_INDEX_3	</identifier>
+					<transform>
+						<row0>	-0.146880 0.000000 -0.989154 0.000000	</row0>
+						<row1>	0.970504 0.193270 -0.144111 0.000000	</row1>
+						<row2>	0.191174 -0.981146 -0.028388 0.000000	</row2>
+						<row3>	0.392046 0.066151 -0.189948 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM069_Crane_1_INDEX_2	</identifier>
+					<transform>
+						<row0>	0.081993 0.000000 0.670002 0.000000	</row0>
+						<row1>	0.000000 0.675000 0.000000 0.000000	</row1>
+						<row2>	-0.670002 0.000000 0.081993 0.000000	</row2>
+						<row3>	0.295651 0.067586 -0.268404 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM226_Gun_Deck	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.166935 -0.417104 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM646_Director_Mk51	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.166042 0.069445 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM633_Periscope_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	-0.106720 0.166745 -0.354391 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM633_Periscope_1_INDEX_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.106714 0.166720 -0.354402 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM357_Gun_Deck	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.165907 -0.600111 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM030_Ammunition_Box4	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.121787 0.175792 -0.391816 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM030_Ammunition_Box4_INDEX_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.070154 0.179922 -0.625952 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM030_Ammunition_Box4_INDEX_2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	-0.070154 0.179922 -0.625952 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM030_Ammunition_Box4_INDEX_3	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	-0.121787 0.175792 -0.391816 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM074_Floater_Net_Basket_2_INDEX_2	</identifier>
+					<transform>
+						<row0>	-1.382980 0.000000 0.183704 0.000000	</row0>
+						<row1>	0.000000 1.395128 0.000000 0.000000	</row1>
+						<row2>	-0.183704 0.000000 -1.382980 0.000000	</row2>
+						<row3>	-0.203008 0.163933 -0.607966 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM074_Floater_Net_Basket_2_INDEX_3	</identifier>
+					<transform>
+						<row0>	-1.382855 0.000000 -0.183677 0.000000	</row0>
+						<row1>	0.000000 1.395000 0.000000 0.000000	</row1>
+						<row2>	0.183677 0.000000 -1.382855 0.000000	</row2>
+						<row3>	0.203035 0.163915 -0.607985 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_AGA_4	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.240531 -0.429585 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_AGA_3	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	-0.149926 0.178063 -0.501228 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_AGA_2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.178063 -0.501228 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_AGA_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.149926 0.178063 -0.501228 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6	</identifier>
+					<transform>
+						<row0>	0.998315 -0.026827 0.051459 0.000000	</row0>
+						<row1>	0.026862 0.999639 0.000000 0.000000	</row1>
+						<row2>	-0.051441 0.001382 0.998675 0.000000	</row2>
+						<row3>	-0.286922 0.168663 -0.459468 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_1	</identifier>
+					<transform>
+						<row0>	-0.998879 0.026862 -0.038981 0.000000	</row0>
+						<row1>	0.026849 0.999639 0.000842 0.000000	</row1>
+						<row2>	0.038989 -0.000205 -0.999240 0.000000	</row2>
+						<row3>	-0.286922 0.191498 -0.459468 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_2	</identifier>
+					<transform>
+						<row0>	0.999376 -0.026852 -0.022966 0.000000	</row0>
+						<row1>	0.026828 0.999639 -0.001363 0.000000	</row1>
+						<row2>	0.022995 0.000746 0.999735 0.000000	</row2>
+						<row3>	-0.286922 0.214379 -0.459468 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_3	</identifier>
+					<transform>
+						<row0>	-0.999319 0.026854 -0.025304 0.000000	</row0>
+						<row1>	0.026862 0.999639 0.000000 0.000000	</row1>
+						<row2>	0.025295 -0.000680 -0.999680 0.000000	</row2>
+						<row3>	-0.286922 0.237238 -0.459468 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_4	</identifier>
+					<transform>
+						<row0>	0.999639 -0.026854 -0.001258 0.000000	</row0>
+						<row1>	0.026853 0.999639 -0.000723 0.000000	</row1>
+						<row2>	0.001277 0.000689 0.999999 0.000000	</row2>
+						<row3>	-0.286922 0.260009 -0.459468 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_5	</identifier>
+					<transform>
+						<row0>	0.997927 0.026764 -0.058527 0.000000	</row0>
+						<row1>	-0.026853 0.999639 -0.000723 0.000000	</row1>
+						<row2>	0.058486 0.002293 0.998286 0.000000	</row2>
+						<row3>	0.286922 0.260009 -0.458583 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_6	</identifier>
+					<transform>
+						<row0>	-0.999085 -0.026847 0.033305 0.000000	</row0>
+						<row1>	-0.026862 0.999639 0.000000 0.000000	</row1>
+						<row2>	-0.033293 -0.000895 -0.999445 0.000000	</row2>
+						<row3>	0.286922 0.237238 -0.458583 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_7	</identifier>
+					<transform>
+						<row0>	0.998356 0.026724 -0.050710 0.000000	</row0>
+						<row1>	-0.026828 0.999639 -0.001363 0.000000	</row1>
+						<row2>	0.050655 0.002721 0.998713 0.000000	</row2>
+						<row3>	0.286922 0.214379 -0.458583 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_8	</identifier>
+					<transform>
+						<row0>	-0.999624 -0.026853 0.005589 0.000000	</row0>
+						<row1>	-0.026849 0.999639 0.000842 0.000000	</row1>
+						<row2>	-0.005609 0.000692 -0.999984 0.000000	</row2>
+						<row3>	0.286922 0.191498 -0.458583 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM054_Boat_6_INDEX_9	</identifier>
+					<transform>
+						<row0>	0.998939 0.026844 -0.037409 0.000000	</row0>
+						<row1>	-0.026862 0.999639 0.000000 0.000000	</row1>
+						<row2>	0.037395 0.001005 0.999300 0.000000	</row2>
+						<row3>	0.286922 0.168663 -0.458583 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM227_Director_Deck	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.166935 0.069445 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM757_Flag	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.166935 0.042612 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM755_Ventilation	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	-0.083437 -0.021302 -0.592699 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_AM756_Rangefinder	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.114087 -0.455049 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 -0.046425 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Rotate_Y_BlendBone	</node>
+		<node>	Rotate_X_BlendBone	</node>
+		<node>	Roll_Back1_BlendBone	</node>
+		<node>	Roll_Back2_BlendBone	</node>
+		<node>	Roll_Back3_BlendBone	</node>
+		<geometry>
+			<vertices>	Turret_lod1Shape.vertices	</vertices>
+			<primitive>	Turret_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Gun	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/8ef885982db2a8b9e2878ae50fd8fb60.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGM034_16in50_Mk7_lod1.visual>

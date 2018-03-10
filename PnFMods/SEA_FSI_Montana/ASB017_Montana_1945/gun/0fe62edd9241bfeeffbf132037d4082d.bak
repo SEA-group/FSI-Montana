@@ -1,0 +1,17 @@
+<e60bbe0d6681d7b49d82fe1d7e9048bb.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/a09bca134b46114ee8c14a23f7c776f8.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/fd6ef602ba779b45126e914220ea309d.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/9cf852f3893fbb506c56d9e42d367812.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/eb89c8e3112f0c59478dbce7ee5980ba.tga	</Texture>
+	</property>
+</e60bbe0d6681d7b49d82fe1d7e9048bb.mfm>
