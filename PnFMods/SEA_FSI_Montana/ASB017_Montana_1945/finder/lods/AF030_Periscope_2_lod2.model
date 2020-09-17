@@ -1,0 +1,12 @@
+<AF030_Periscope_2_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.048933 -0.000000 -0.051451	</min>
+		<max>	0.048933 0.092331 0.051451	</max>
+	</visibilityBox>
+	<extent>	20.000000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/finder/lods/AF030_Periscope_2_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AF030_Periscope_2_lod2.model>

@@ -1,0 +1,20 @@
+<AAF024_XP_40S.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/default_ao.tga	</Texture>
+	</property>
+</AAF024_XP_40S.mfm>

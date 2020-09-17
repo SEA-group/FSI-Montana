@@ -1,1 +1,87 @@
-<ASB017_Montana_1945.visual><boundingBox><min>-1.274129 -0.845083 -9.253557</min><max>1.422119 3.270165 9.540869</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>export</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_Full</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node><node><identifier>HP_Bow</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node><node><identifier>HP_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node><node><identifier>HP_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node><node><identifier>HP_Stern</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node><node><identifier>Full</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform></node></node></node></node></ASB017_Montana_1945.visual>
+<ASB017_Montana_1945.visual>
+	<boundingBox>
+		<min>	-1.274129 -0.845083 -9.253557	</min>
+		<max>	1.422119 3.270165 9.540869	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	export	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_Full	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Bow	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Stern	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Full	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+</ASB017_Montana_1945.visual>

@@ -1,1 +1,107 @@
-<ASB017_Montana_1945_Stern.visual><boundingBox><min>-1.250641 -0.803220 -9.252838</min><max>1.250431 0.829274 -3.666125</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Stern</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Stern_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Stern_wire</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern</node><geometry><vertices>SternShape.vertices</vertices><primitive>SternShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMA_PBS_Hull</identifier><mfm>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/c20db266fed91174eeb813a458d0b0f8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack</node><geometry><vertices>Stern_crack_MidBackShape.vertices</vertices><primitive>Stern_crack_MidBackShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMA_PBS_Hull</identifier><mfm>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/c20db266fed91174eeb813a458d0b0f8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_crack_MidBack_in</node><geometry><vertices>Stern_crack_MidBack_inShape.vertices</vertices><primitive>Stern_crack_MidBack_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMA_PBS_Crack</identifier><mfm>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/1514b3a8879fafa16a51f5ef9f4a1d38.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Stern_wire</node><geometry><vertices>Stern_wireShape.vertices</vertices><primitive>Stern_wireShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPWIRE_PBS_Hull</identifier><mfm>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/71c6581fa059b30752006d16829c1e1c.mfm</mfm></material></primitiveGroup></geometry></renderSet></ASB017_Montana_1945_Stern.visual>
+<ASB017_Montana_1945_Stern.visual>
+	<boundingBox>
+		<min>	-1.250641 -0.803220 -9.252838	</min>
+		<max>	1.250431 0.829274 -3.666125	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Stern	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Stern_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Stern_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Stern_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern	</node>
+		<geometry>
+			<vertices>	SternShape.vertices	</vertices>
+			<primitive>	SternShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBackShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	Stern_crack_MidBack_inShape.vertices	</vertices>
+			<primitive>	Stern_crack_MidBack_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Stern_wire	</node>
+		<geometry>
+			<vertices>	Stern_wireShape.vertices	</vertices>
+			<primitive>	Stern_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ASB017_Montana_1945_Stern.visual>

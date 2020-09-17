@@ -1,1 +1,9 @@
-<AAS010_Curtiss_SC1.model><exporter>1.6</exporter><parent>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAS010_Curtiss_SC1_lod1</parent><extent>4.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAS010_Curtiss_SC1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AAS010_Curtiss_SC1.model>
+<AAS010_Curtiss_SC1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/lods/AAS010_Curtiss_SC1_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAS010_Curtiss_SC1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAS010_Curtiss_SC1.model>

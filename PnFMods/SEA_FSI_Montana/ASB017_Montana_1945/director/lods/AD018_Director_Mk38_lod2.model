@@ -1,0 +1,12 @@
+<AD018_Director_Mk38_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.314482 0.000891 -0.109317	</min>
+		<max>	0.314482 0.106236 0.114665	</max>
+	</visibilityBox>
+	<extent>	40.000000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/lods/AD018_Director_Mk38_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD018_Director_Mk38_lod2.model>

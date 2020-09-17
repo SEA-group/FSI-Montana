@@ -1,0 +1,17 @@
+<AD018_Director_Mk38.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/default_ao.tga	</Texture>
+	</property>
+</AD018_Director_Mk38.mfm>

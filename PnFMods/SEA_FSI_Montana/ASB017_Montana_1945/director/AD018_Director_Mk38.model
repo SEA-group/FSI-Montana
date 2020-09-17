@@ -1,1 +1,13 @@
-<AD018_Director_Mk38.model><castsShadow>false</castsShadow><materialNames /><visibilityBox><min>-0.314482 -0.003556 -0.117671</min><max>0.314482 0.106236 0.117671</max></visibilityBox><extent>3.000000</extent><parent>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38_lod1</parent><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AD018_Director_Mk38.model>
+<AD018_Director_Mk38.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.314482 -0.003556 -0.117671	</min>
+		<max>	0.314482 0.106236 0.117671	</max>
+	</visibilityBox>
+	<extent>	3.000000	</extent>
+	<parent>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/lods/AD018_Director_Mk38_lod1	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD018_Director_Mk38.model>

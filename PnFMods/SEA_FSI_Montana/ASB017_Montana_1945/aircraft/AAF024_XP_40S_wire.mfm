@@ -1,0 +1,14 @@
+<AAF024_XP_40S_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/aircraft/AAF024_XP_40S_mg.dds	</Texture>
+	</property>
+</AAF024_XP_40S_wire.mfm>

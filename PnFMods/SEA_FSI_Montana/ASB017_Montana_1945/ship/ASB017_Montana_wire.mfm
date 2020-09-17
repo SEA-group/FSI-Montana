@@ -1,0 +1,14 @@
+<ASB017_Montana_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/ship/ASB017_Montana_a.tga	</Texture>
+	</property>
+</ASB017_Montana_wire.mfm>

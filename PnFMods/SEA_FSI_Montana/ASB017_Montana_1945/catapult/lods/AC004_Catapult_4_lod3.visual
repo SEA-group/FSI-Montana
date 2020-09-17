@@ -1,0 +1,151 @@
+<AC004_Catapult_4_lod3.visual>
+	<boundingBox>
+		<min>	-0.073955 0.006833 -0.542121	</min>
+		<max>	0.107293 0.111206 0.897409	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Float_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.082855 -0.190521 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Float_1_BlendBone	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	0.000000 -0.082855 0.190521 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Float_2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.082855 -0.190521 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Float_2_BlendBone	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	0.000000 -0.082855 0.190521 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	HP_Plane_Start	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.082855 -0.190521 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Plane_End	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.082855 0.699807 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	Catapult	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Cradle1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Rotate_Y_BlendBone	</node>
+		<geometry>
+			<vertices>	Catapult_lod3Shape.vertices	</vertices>
+			<primitive>	Catapult_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Catapult	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/catapult/AC004_Catapult_4_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Float_1_BlendBone	</node>
+		<geometry>
+			<vertices>	Cradle1_lod3Shape.vertices	</vertices>
+			<primitive>	Cradle1_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMA_PBS_Catapult	</identifier>
+					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/catapult/AC004_Catapult_4_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AC004_Catapult_4_lod3.visual>

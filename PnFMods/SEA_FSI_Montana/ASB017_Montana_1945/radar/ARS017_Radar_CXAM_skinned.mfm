@@ -1,0 +1,17 @@
+<ARS017_Radar_CXAM_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/radar/ARS017_Radar_CXAM_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/radar/ARS017_Radar_CXAM_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/radar/ARS017_Radar_CXAM_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/radar/default_ao.tga	</Texture>
+	</property>
+</ARS017_Radar_CXAM_skinned.mfm>

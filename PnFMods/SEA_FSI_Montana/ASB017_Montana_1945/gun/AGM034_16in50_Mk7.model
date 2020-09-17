@@ -1,1 +1,13 @@
-<AGM034_16in50_Mk7.model><extent>6.0000</extent><parent>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGM034_16in50_Mk7_lod1</parent><materialNames /><visibilityBox><min>-0.518246 -0.010803 -0.625949</min><max>0.518247 0.217935 1.259787</max></visibilityBox><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGM034_16in50_Mk7</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AGM034_16in50_Mk7.model>
+<AGM034_16in50_Mk7.model>
+	<extent>	6.0000	</extent>
+	<parent>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/lods/AGM034_16in50_Mk7_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.518246 -0.010803 -0.625949	</min>
+		<max>	0.518247 0.217935 1.259787	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/gun/AGM034_16in50_Mk7	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM034_16in50_Mk7.model>
