@@ -132,6 +132,78 @@
                     <row3> 0.000000 0.461327 -4.533508 1.000000 </row3>
                 </transform>
             </node>
+			<node>
+				<identifier>	HP_FX_Death_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -4.9789 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.3972 -7.2931 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_RepairLight_left_2	</identifier>
+				<transform>
+					<row0>	-0.0090 0.0000 1.0000 0.0000	</row0>
+					<row1>	-0.0392 0.9992 -0.0004 0.0000	</row1>
+					<row2>	-0.9992 -0.0392 -0.0090 0.0000	</row2>
+					<row3>	-1.1840 0.3769 -4.1999 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTraceBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 -9.0835 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.6681 -0.5116 -6.9926 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2353 -0.5116 -7.4736 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.6681 -0.5116 -6.9926 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace_screw_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2353 -0.5116 -7.4736 1.0000	</row3>
+				</transform>
+			</node>
             <node>
                 <identifier>	MP_CM003_Propeller5_L	</identifier>
                 <transform>
@@ -168,33 +240,6 @@
                     <row3> 0.668068 -0.511595 -6.992583 1.000000 </row3>
                 </transform>
             </node>
-			<node>
-				<identifier>	HP_FX_Death_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -4.9789 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Fire_4	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4038 -6.7875 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTraceBack	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -9.0835 1.0000	</row3>
-				</transform>
-			</node>
 			<node>
 				<identifier>	HP_Ship_death_3	</identifier>
 				<transform>
