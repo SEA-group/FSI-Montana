@@ -29,7 +29,7 @@
 			<primitive>	Director_Mk38_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_FSI_Montana/ASB017_Montana_1945/director/AD018_Director_Mk38.mfm	</mfm>
 				</material>
 			</primitiveGroup>
